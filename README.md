@@ -24,7 +24,7 @@ Power BI dashboard project analyzing Amazon sales performance by region, categor
 ## 📁 Files Included
 
 - `Amazon Sales Analytics.pbix` — Power BI dashboard file
-- *(Optional)* `Dashboard_Screenshot.png` — Overview of the dashboard visuals
+-  `Dashboard_Screenshot.png` — Overview of the dashboard visuals
 
 ## 🧠 Skills Demonstrated
 
